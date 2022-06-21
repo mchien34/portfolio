@@ -1,5 +1,3 @@
-// import gsap from 'gsap-trial'
-// import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
 import React, { useRef } from 'react'
 import LogoS from '../../../assets/images/letter_c.png'
 import './index.scss'
